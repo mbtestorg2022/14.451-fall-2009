@@ -48,17 +48,106 @@ There will be several problem sets and a final exam. The problem sets will cover
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 40% |
-| Final exam | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-7 | Discrete time: deterministic models | Problem set 1 out in Ses #1, problem set 1 due in Ses #4, problem set 2 out in Ses #5, and problem set 2 due in Ses #7 |
-| 8-9 | Discrete time: stochastic models | Problem set 3 out in Ses #8 |
-| 10-12 | Continuous time | Problem set 3 due in Ses #10, problem set 4 out in Ses #11 |
-| &nbsp; | Final exam | Problem set 4 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-7
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete time: deterministic models
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out in Ses #1, problem set 1 due in Ses #4, problem set 2 out in Ses #5, and problem set 2 due in Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete time: stochastic models
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out in Ses #8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-12
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous time
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due in Ses #10, problem set 4 out in Ses #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,11 +4,131 @@ title: Lecture Notes
 uid: acbda5b6-4bba-8e1e-7821-3274cc3d2c12
 ---
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Discrete time: deterministic models**{{< /td-colspan >}} |||
-| 1-7 |  {{< br >}}{{< br >}} Vector spaces {{< br >}}{{< br >}} The principle of optimality {{< br >}}{{< br >}} Concavity and differentiability of the value function {{< br >}}{{< br >}} Euler equations {{< br >}}{{< br >}} Deterministic dynamics {{< br >}}{{< br >}} Models with constant returns to scale {{< br >}}{{< br >}} Nonstationary models {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec01)) {{< br >}}{{< br >}} Lecture 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec02)) {{< br >}}{{< br >}} Lecture 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec03)) {{< br >}}{{< br >}} Lecture 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec04)) {{< br >}}{{< br >}} Lecture 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec05)) {{< br >}}{{< br >}} Lecture 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec06)) {{< br >}}{{< br >}} Lecture 7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec07)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Discrete time: stochastic models**{{< /td-colspan >}} |||
-| 8-9 |  {{< br >}}{{< br >}} Stochastic dynamic programming {{< br >}}{{< br >}} Stochastic Euler equations {{< br >}}{{< br >}} Stochastic dynamics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lecture 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec08)) {{< br >}}{{< br >}} Lecture 9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec09)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Continuous time**{{< /td-colspan >}} |||
-| 10-12 |  {{< br >}}{{< br >}} Calculus of variations {{< br >}}{{< br >}} The maximum principle {{< br >}}{{< br >}} Discounted infinite-horizon optimal control {{< br >}}{{< br >}} Saddle-path stability {{< br >}}{{< br >}}  | Lecture 10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec10))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Discrete time: deterministic models**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Vector spaces
+
+The principle of optimality
+
+Concavity and differentiability of the value function
+
+Euler equations
+
+Deterministic dynamics
+
+Models with constant returns to scale
+
+Nonstationary models
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec01))
+
+Lecture 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec02))
+
+Lecture 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec03))
+
+Lecture 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec04))
+
+Lecture 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec05))
+
+Lecture 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec06))
+
+Lecture 7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec07))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Discrete time: stochastic models**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stochastic dynamic programming
+
+Stochastic Euler equations
+
+Stochastic dynamics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec08))
+
+Lecture 9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec09))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Continuous time**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Calculus of variations
+
+The maximum principle
+
+Discounted infinite-horizon optimal control
+
+Saddle-path stability
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -24,8 +24,122 @@ Kamien, Morton I., and Nancy L. Schwartz. _Dynamic Optimization: The Calculus of
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1-7 | Discrete time: deterministic models | {{< h 3 >}}Vector spaces{{< /h >}} {{< br >}}{{< br >}} \[SLP\] chapter 3. {{< br >}}{{< br >}} {{< h 3 >}}The principle of optimality{{< /h >}} {{< br >}}{{< br >}} \[SLP\] chapter 4.1  {{< br >}}\[Acemoglu\] sections 6.2 to 6.3. {{< br >}}{{< br >}} {{< h 3 >}}Concavity and differentiability of the value function{{< /h >}} {{< br >}}{{< br >}} \[SLP\] section 4.2. {{< br >}}{{< br >}} {{< h 3 >}}Euler equations{{< /h >}} {{< br >}}{{< br >}} \[SLP\] section 4.5 {{< br >}}{{< br >}} {{< h 3 >}}Deterministic dynamics{{< /h >}} {{< br >}}{{< br >}} \[SLP\] chapter 6. {{< br >}}{{< br >}} {{< h 3 >}}Models with constant returns to scale{{< /h >}} {{< br >}}{{< br >}} \[SLP\] section 4.3. {{< br >}}{{< br >}} {{< h 3 >}}Nonstationary models{{< /h >}} {{< br >}}{{< br >}} \[Acemoglu\] section 6.7. {{< br >}}{{< br >}}  |
-| 8-9 | Discrete time: stochastic models | {{< h 3 >}}Stochastic dynamic programming{{< /h >}} {{< br >}}{{< br >}} \[SLP\] sections 9.1 to 9.2.  {{< br >}}\[Acemoglu\] section 16.2. {{< br >}}{{< br >}} {{< h 3 >}}Stochastic Euler equations{{< /h >}} {{< br >}}{{< br >}} \[SLP\] section 9.5.  {{< br >}}\[Acemoglu\] section 16.3. {{< br >}}{{< br >}} {{< h 3 >}}Stochastic dynamics{{< /h >}} {{< br >}}{{< br >}} \[SLP\] section 9.6, chapters 11 and 12. {{< br >}}{{< br >}}  |
-| 10-12 | Continuous time | {{< h 3 >}}Calculus of variations{{< /h >}} {{< br >}}{{< br >}} \[Acemoglu\] section 7.1. {{< br >}}{{< br >}} {{< h 3 >}}The maximum principle{{< /h >}} {{< br >}}{{< br >}} \[Acemoglu\] sections 7.2 to 7.3. {{< br >}}{{< br >}} {{< h 3 >}}Discounted infinite-horizon optimal control{{< /h >}} {{< br >}}{{< br >}} \[Acemoglu\] section 7.5. {{< br >}}{{< br >}} {{< h 3 >}}Saddle-path stability{{< /h >}} {{< br >}}{{< br >}} \[Acemoglu\] section 7.8. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-7
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete time: deterministic models
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Vector spaces
+
+\[SLP\] chapter 3.
+
+### The principle of optimality
+
+\[SLP\] chapter 4.1  
+\[Acemoglu\] sections 6.2 to 6.3.
+
+### Concavity and differentiability of the value function
+
+\[SLP\] section 4.2.
+
+### Euler equations
+
+\[SLP\] section 4.5
+
+### Deterministic dynamics
+
+\[SLP\] chapter 6.
+
+### Models with constant returns to scale
+
+\[SLP\] section 4.3.
+
+### Nonstationary models
+
+\[Acemoglu\] section 6.7.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Discrete time: stochastic models
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Stochastic dynamic programming
+
+\[SLP\] sections 9.1 to 9.2.  
+\[Acemoglu\] section 16.2.
+
+### Stochastic Euler equations
+
+\[SLP\] section 9.5.  
+\[Acemoglu\] section 16.3.
+
+### Stochastic dynamics
+
+\[SLP\] section 9.6, chapters 11 and 12.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-12
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous time
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Calculus of variations
+
+\[Acemoglu\] section 7.1.
+
+### The maximum principle
+
+\[Acemoglu\] sections 7.2 to 7.3.
+
+### Discounted infinite-horizon optimal control
+
+\[Acemoglu\] section 7.5.
+
+### Saddle-path stability
+
+\[Acemoglu\] section 7.8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
