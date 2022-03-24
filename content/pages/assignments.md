@@ -44,7 +44,7 @@ Optimal saving in finite time
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset1))
+([PDF]({{< baseurl >}}/resources/mit14_451f09_pset1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Non-differentiabilities
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset2))
+([PDF]({{< baseurl >}}/resources/mit14_451f09_pset2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ beta = 0.5
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset3))
+([PDF]({{< baseurl >}}/resources/mit14_451f09_pset3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Optimal control
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_pset4))
+([PDF]({{< baseurl >}}/resources/mit14_451f09_pset4))
 {{< tdclose >}}
 
 {{< trclose >}}

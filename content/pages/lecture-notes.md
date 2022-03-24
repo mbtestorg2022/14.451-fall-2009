@@ -52,19 +52,19 @@ Nonstationary models
 {{< tdopen >}}
 
 
-Lecture 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec01))
+Lecture 1 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec01))
 
-Lecture 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec02))
+Lecture 2 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec02))
 
-Lecture 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec03))
+Lecture 3 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec03))
 
-Lecture 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec04))
+Lecture 4 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec04))
 
-Lecture 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec05))
+Lecture 5 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec05))
 
-Lecture 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec06))
+Lecture 6 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec06))
 
-Lecture 7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec07))
+Lecture 7 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec07))
 
 
 {{< tdclose >}}
@@ -94,9 +94,9 @@ Stochastic dynamics
 {{< tdopen >}}
 
 
-Lecture 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec08))
+Lecture 8 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec08))
 
-Lecture 9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec09))
+Lecture 9 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec09))
 
 
 {{< tdclose >}}
@@ -126,7 +126,7 @@ Saddle-path stability
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_451f09_lec10))
+Lecture 10 ([PDF]({{< baseurl >}}/resources/mit14_451f09_lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
